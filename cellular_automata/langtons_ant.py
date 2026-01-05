@@ -4,6 +4,7 @@ Langton's ant
 @ https://en.wikipedia.org/wiki/Langton%27s_ant
 @ https://upload.wikimedia.org/wikipedia/commons/0/09/LangtonsAntAnimated.gif
 """
+from __future__ import annotations
 
 from functools import partial
 
